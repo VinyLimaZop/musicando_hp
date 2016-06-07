@@ -1,37 +1,46 @@
-@font-face {
+/* @font-face {
     font-family: 'Purisa';
-    src: url('../fonts/Purisa.eot'); /* For IE */
+    src: url('../fonts/Purisa.eot'); For IE
     src: local('Purisa'),
          url('../fonts/Purisa.ttf') format('truetype');
-}
+} */
 
 html {
-   font-family: Purisa, GillSans, Calibri, Trebuchet, sans-serif; !important
+   font-family: 'Oswald', GillSans, Calibri, Trebuchet, sans-serif; !important
 }
 
 /*
 .row-nav {
-	min-height: 75px; !important
+    min-height: 75px; !important
 }
 */
 
 nav ul a {
-	font-size: 1.3em; !important
+    font-size: 1.3em; !important
 }
 
 a.nav {
-	padding: 0 15px; !important
-	
+    padding: 0 15px; !important
+
 }
 
 div.parallax-blur {
-		background-color: rgba(0, 0, 0, 0.6);
+        background-color: rgba(0, 0, 0, 0.6);
 }
 
 h1.header {
-	font-size: 7rem; !important
-	margin-bottom: 100px;
-	text-decoration: overline underline;
-	margin-top: 30%; !important
-}
+    font-size: 6rem; !important
+    margin-bottom: 100px;
+    text-decoration: underline;
+    margin-top: 200px; !important
 
+
+
+}
+h1.header{
+    letter-spacing: 3px;
+
+}
+.brand-logo {
+    letter-spacing: 8px;
+}

@@ -25,7 +25,7 @@ a.nav {
 }
 
 div.parallax-blur {
-        background-color: rgba(0, 0, 0, 0.6);
+        background-color: rgba(0, 0, 0, 0.7);
 }
 
 h1.header {
@@ -43,4 +43,13 @@ h1.header{
 }
 .brand-logo {
     letter-spacing: 8px;
+}
+
+
+.nav-ponto {
+    vertical-align: super;
+}
+
+.justify {
+    text-align: justify;
 }

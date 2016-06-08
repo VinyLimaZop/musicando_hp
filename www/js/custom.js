@@ -1,4 +1,4 @@
-$(document).ready(function(){
+/* $(document).ready(function(){
     var margin_body = 0;
     var height_window = $(window).height();
 
@@ -14,3 +14,4 @@ $(document).ready(function(){
 
 
 });
+*/

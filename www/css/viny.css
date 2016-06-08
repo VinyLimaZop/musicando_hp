@@ -24,6 +24,10 @@ a.nav {
 
 }
 
+div#index-banner {
+    min-height: 100vh;
+}
+
 div.parallax-blur {
         background-color: rgba(0, 0, 0, 0.7);
 }
@@ -32,9 +36,7 @@ h1.header {
     font-size: 6rem; !important
     margin-bottom: 100px;
     text-decoration: underline;
-    margin-top: 200px; !important
-
-
+    margin-top: 50vh; !important
 
 }
 h1.header{
